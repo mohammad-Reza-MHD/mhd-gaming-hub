@@ -1,0 +1,1 @@
+export default function StorePage(){return <section className="shell page-shell"><div className="eyebrow">MHD / STORE</div><h1>فروشگاه گیمینگ</h1><p>ویترین آینده تجهیزات، قطعات کامپیوتر و لوازم جانبی گیمینگ.</p><div className="notice">فروشگاه در حال آماده‌سازی است. در این نسخه هیچ محصول قابل خرید یا درگاه پرداختی وجود ندارد.</div></section>}

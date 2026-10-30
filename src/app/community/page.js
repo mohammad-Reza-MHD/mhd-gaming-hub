@@ -1,0 +1,1 @@
+export default function CommunityPage(){return <section className="shell page-shell"><div className="eyebrow">MHD / COMMUNITY</div><h1>جامعه MHD</h1><p>فضایی برای گفت‌وگو، معرفی بازی‌ها، امتیازدهی و ساخت پروفایل گیمرها.</p><div className="notice">انجمن و حساب‌های کاربری هنوز فعال نیستند. در مرحله توسعه این بخش، احراز هویت امن و پایگاه داده پیاده‌سازی می‌شود.</div></section>}
